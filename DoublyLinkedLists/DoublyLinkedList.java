@@ -1,5 +1,6 @@
 /**
- * This is a Doubly LinkedList that has both a head an tail pointer.
+ * This is a Doubly LinkedList that has both a head and tail pointer. This class also has next and 
+ * previous pointers, whereas Singly Linked Lists have only next pointers. 
  */
 
 public class DoublyLinkedList<T> implements LinkedListInterface<T>{
